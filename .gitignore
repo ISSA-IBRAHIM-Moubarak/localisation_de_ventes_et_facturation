@@ -36,5 +36,5 @@ yarn-error.log
 ###< lexik/jwt-authentication-bundle ###
 
 ###> src ###
-/src/
+/src/Entity/
 ###< src ###
