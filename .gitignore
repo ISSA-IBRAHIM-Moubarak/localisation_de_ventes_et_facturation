@@ -7,7 +7,7 @@
 /public/bundles/
 /var/
 /vendor/
-/src/Entity/
+/src/
 ###< symfony/framework-bundle ###
 
 ###> symfony/phpunit-bridge ###
@@ -34,3 +34,7 @@ yarn-error.log
 ###> lexik/jwt-authentication-bundle ###
 #/config/jwt/*.pem
 ###< lexik/jwt-authentication-bundle ###
+
+###> src ###
+/src/
+###< src ###
